@@ -52,7 +52,7 @@ heart.addEventListener('click', toggleHeart);
 function showSaved() {
   
   if(heart.classList.contains("heart-filled")){
-      save.innerHTML = 'Wi Wi <3';
+      save.innerHTML = 'Mai Trinh <3';
     
   } else {
      save.innerHTML = ''; 
