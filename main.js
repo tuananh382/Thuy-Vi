@@ -52,7 +52,7 @@ heart.addEventListener('click', toggleHeart);
 function showSaved() {
   
   if(heart.classList.contains("heart-filled")){
-      save.innerHTML = 'Mai Trinh <3';
+      save.innerHTML = 'Hoài Trâm <3';
     
   } else {
      save.innerHTML = ''; 
